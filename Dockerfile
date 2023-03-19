@@ -1,6 +1,6 @@
 FROM devopsedu/webapp
 
-#Update Repository
+#Update the Repository
 RUN apt-get update -y
 
 #Install Apache
